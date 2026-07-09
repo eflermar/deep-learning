@@ -1,0 +1,4 @@
+npfl138
+torch
+torchvision
+transformers
