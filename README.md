@@ -39,3 +39,12 @@ python <project-folder>/<script>.py
 ```
 
 Datasets are downloaded automatically by `npfl138`'s dataset loaders on first run.
+
+## License & attribution
+
+Assignment specifications and code templates come from the
+[NPFL138 Deep Learning course](https://github.com/ufal/npfl138)
+(ÚFAL, Charles University), licensed under
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+My solutions in this repository are derivative works and are
+therefore also licensed under CC BY-SA 4.0.
